@@ -1,6 +1,4 @@
-# dht22
-DHT22/DHT11 driver for ESP
-
+# DHT22/DHT11 driver for ESP
 
 clone this repository into components folder of ESP IDF project 
 and use:
